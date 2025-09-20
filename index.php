@@ -47,6 +47,21 @@
   <head>
       <meta charset="UTF-8">
       <title>Absensi</title>
+
+          <!-- SEO Dasar -->
+    <title>Absensi Rohis SMKN 9 Medan | Sistem Absensi Online</title>
+    <meta name="description" content="Sistem Absensi Rohis SMKN 9 Medan untuk memudahkan presensi peserta di setiap acara. Deteksi lokasi otomatis dan laporan absensi real-time.">
+    <meta name="keywords" content="absensi, rohis, SMKN 9 Medan, presensi, lokasi, laporan, sistem absensi online">
+    <meta name="author" content="Rohis SMKN 9 Medan">
+    <meta name="robots" content="index, follow">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="rohis.jpg">
+<link rel="icon" type="image/png" sizes="16x16" href="rohis.jpg">
+
+
+
+
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
       <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
