@@ -69,6 +69,8 @@
       <style>
         #map { height: 400px; width: 100%; }
       </style>
+
+    <meta name="google-site-verification" content="odF4v2EKkyFcAMxCR03lfbFLiICsMPBUGsYtpCKvATQ" />
   </head>
   <body class="bg-light">
   <div class="container py-4">
@@ -385,3 +387,4 @@
   </script>
   </body>
   </html>
+
