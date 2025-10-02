@@ -10,7 +10,7 @@ class AbsensiController {
     public $lokasiX = 3.591537; 
     public $lokasiY = 98.623725; 
     // public $lokasiY = 98.6900058; // Longitude Perintis
-    public $radius = 50;// meter
+    public $radius = 10000;// meter
 
     public function __construct() {
         $this->db = (new Database())->conn;
@@ -90,4 +90,5 @@ class AbsensiController {
         return $stmt->fetchAll(PDO::FETCH_ASSOC);
     }
 }
+
 
